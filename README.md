@@ -1,2 +1,2 @@
 # hello_world
-Today  is a beauttiful day
+Today  is a beauttiful day and it's raining
